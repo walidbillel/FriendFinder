@@ -1,5 +1,5 @@
 // Getting the friends data module
-var friendsdata = require('../data/friends.js');
+var friendsdata = require('../data/friends');
 var path = require("path");
 
 // console.log(friendsdata);
