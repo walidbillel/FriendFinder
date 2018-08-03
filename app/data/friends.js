@@ -46,6 +46,22 @@ var friendsdata = [
             "5",
             "5"
         ]
+    },
+    {
+        "name": "Albert Einstein",
+        "photo": "https://i.gifer.com/7gLM.gif",
+        "scores": [
+            "5",
+            "1",
+            "5",
+            "1",
+            "5",
+            "5",
+            "5",
+            "1",
+            "1",
+            "5"
+        ]
     }
 ];
 
