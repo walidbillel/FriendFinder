@@ -1,5 +1,6 @@
 // Getting the friends data module
 var friendsdata = require('../data/friends.js');
+var path = require("path");
 
 // console.log(friendsdata);
 
@@ -39,7 +40,7 @@ module.exports = function (app) {
             for (var j = 0; j < userResponses.length; j++) {
                 diff += Math.abs(friendsdata[i].scores[j] - userResponses[j]);
             }
-            console.log('diff = ' + diff);
+            // console.log('diff = ' + diff);
             // totalDifference = diff;
 
             // If lowest difference, record the friend match
