@@ -62,7 +62,24 @@ var friendsdata = [
             "1",
             "5"
         ]
+    },
+    {
+        "name": "Nikko Bustillo",
+        "photo": "https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/10626854_10212317902286260_9131947409141979476_n.jpg?_nc_cat=0&oh=8dccd1e7dfbe239273a865e818396b63&oe=5C1135F6",
+        "scores": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+        ]
     }
 ];
 
 module.exports = friendsdata;
+
